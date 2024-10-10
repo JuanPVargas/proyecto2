@@ -1,4 +1,4 @@
-import app from 'express';
+import express from 'express';
 
 //servidor
 const app = express();
